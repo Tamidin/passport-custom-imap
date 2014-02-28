@@ -1,0 +1,38 @@
+{
+  "name": "passport-custom-imap",
+  "version": "0.0.1",
+  "description": "Custom imap authentication strategy for Passport.",
+  "author": {
+    "name": "Tamidin",
+    "email": "taubm@yandex.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Tamidin/passport-custom-imap.git"
+  },
+  "main": "./lib/passport-imap",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport": "~0.1.1",
+    "imap": "~0.8.1"
+  },
+  "devDependencies": {
+    "vows": "0.6.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "passport",
+    "imap",
+    "auth",
+    "authn",
+    "authentication"
+  ]
+}
