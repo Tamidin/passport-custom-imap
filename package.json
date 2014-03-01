@@ -1,6 +1,6 @@
 {
   "name": "passport-custom-imap",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Custom imap authentication strategy for Passport.",
   "author": {
     "name": "Tamidin",
@@ -34,5 +34,17 @@
     "auth",
     "authn",
     "authentication"
-  ]
+  ],
+  "readme": "# Passport-Imap\r\n\r\n[Passport](http://passportjs.org/) strategy for authenticating with imap\r\n\r\nThis module serves the purpose of authenticating a user using email login credentials in Node.js/Sails.js application.\r\nThis can be unobtrusively integrated with any Node.js application using passport for authentication\r\n\r\n## Install\r\n\r\n    $ npm install passport-custom-imap\r\n\r\n\r\n## License\r\n\r\n  - [The MIT License](http://opensource.org/licenses/MIT)\r\n\r\n\r\nCopyright (c) [NetTantra Technologies](http://www.nettantra.com/)\r\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/Tamidin/passport-custom-imap/issues"
+  },
+  "homepage": "https://github.com/Tamidin/passport-custom-imap",
+  "_id": "passport-custom-imap@0.0.3",
+  "dist": {
+    "shasum": "987ee73463a412105f68a763a38711eced96dddb"
+  },
+  "_from": "passport-custom-imap@0.0.3",
+  "_resolved": "https://registry.npmjs.org/passport-custom-imap/-/passport-custom-imap-0.0.3.tgz"
 }
